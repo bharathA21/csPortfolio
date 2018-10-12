@@ -1,7 +1,7 @@
 # csPortfolio
 
 * [Web Page!](https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html)
-* [Ligntning] (https://bharatha21.github.io/lightning2/)
+* Ligntning [here] (https://bharatha21.github.io/lightning2/)
 * [Dice](https://bharatha21.github.io/dice3/)
 * [Chemotaxis] (https://bharatha21.github.io/chemotaxis4/) 
 
