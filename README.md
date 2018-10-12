@@ -1,10 +1,10 @@
 # csPortfolio
 
 * [Web Page!](https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html)
-* [Ligntning!] (https://bharatha21.github.io/lightning2/)
+* [Ligntning] (https://bharatha21.github.io/lightning2/)
 * [Dice](https://bharatha21.github.io/dice3/)
-* [Chemotaxis] ( 
-* This is my code
+* [Chemotaxis] (https://bharatha21.github.io/chemotaxis4/) 
+
 * tough code (code that's difficult)
 
 ```Java
