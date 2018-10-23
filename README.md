@@ -4,7 +4,7 @@
 * [Ligntning](https://bharatha21.github.io/lightning2/)
 * [Dice](https://bharatha21.github.io/dice3/)
 * [Chemotaxis](https://bharatha21.github.io/chemotaxis4/)
-* [Purdue Pete](https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing)
+* [Purdue Pete](https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing)(College Presentation)
 * [Some Modern Art](https://bharatha21.github.io/PracticeChemo/)
 
 * tough code (code that's difficult)
