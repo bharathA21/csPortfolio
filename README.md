@@ -9,7 +9,7 @@
 ##### Lightning Reflection
         Looking back on my Lightnig project, I remember how difficult it was to actually get the Lightning to appear
         on the screen. It was during this project that I became really comfortable asking for help when I was on the
-        *Struggle* *Bus* 
+        _Struggle_ _Bus_ 
 * [Dice](https://bharatha21.github.io/dice3/)
 * [Chemotaxis](https://bharatha21.github.io/chemotaxis4/)
 * [Purdue Pete](https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing)(College Presentation)
