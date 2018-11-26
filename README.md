@@ -4,7 +4,7 @@
  <summary>Webpage</summary>
  <p>
   
-  <a href="https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html">Web Page<br></a>
+  <a href="https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html">Vacations<br></a>
    
  
  <p>
@@ -25,7 +25,7 @@
  <summary>Lightning</summary>
  <p>
   
-  <a href="https://bharatha21.github.io/lightning2/">Lightning<br></a>
+  <a href="https://bharatha21.github.io/lightning2/">Rattatouile<br></a>
  
  <p>
 Looking back on my Lightnig project, I remember how difficult it was to actually get the Lightning to appear
@@ -41,7 +41,7 @@ Looking back on my Lightnig project, I remember how difficult it was to actually
  <summary>Dice</summary>
  <p>
   
-  <a href="https://bharatha21.github.io/dice3/">Dice<br></a>
+  <a href="https://bharatha21.github.io/dice3/">(D)Ice on My Wrist<br></a>
  
  <p>
 Dice was one of my favorite projects we did all Tri, not only did I have fun while doing it but I figured it 
@@ -54,7 +54,7 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
  <summary>Chemotaxis</summary>
  <p>
   
-  <a href="https://bharatha21.github.io/chemotaxis4/">Chemotaxis<br></a>
+  <a href="https://bharatha21.github.io/chemotaxis4/">Mint Oreos<nr></a>
    <a href="https://bharatha21.github.io/PracticeChemo/">Modern Art<br></a>
  
  <p>
@@ -73,8 +73,7 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
   <a href="https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing">Purdue Pete<br></a>
  
  <p>
- Chemotaxis was rough. It was really funny how I got my project, at first I created a bunch of circle objects
-        and played around with the randomizer. I can still make it better, but I like where I ended.  
+ I really liked the college presentation project. It was cool to do research on colleges and learn more specifclly the comp sci department. It was also a really different expirence actually calling a proffessor, it's something I have never done before, but I am glad I did it.
 </p>
   </details>
  </p>
