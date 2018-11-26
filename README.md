@@ -5,7 +5,7 @@
  <p>
   
   <a href="https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html">Web Page<br></a>
-  
+   </p>
  
  <p>
  When I look back on my WebPage, it is really cool to see how I was able to display my cool photos from all 
@@ -14,7 +14,7 @@
 </p>
    
     
-  </p>
+ 
   
   
   
