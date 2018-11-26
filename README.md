@@ -54,9 +54,11 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
  <summary>Chemotaxis</summary>
  <p>
   
+
   <a href="https://bharatha21.github.io/chemotaxis4/">Mint Oreos<nr></a>
+   <p>
    <a href="https://bharatha21.github.io/PracticeChemo/">Modern Art<br></a>
- 
+ </p>
  <p>
  Chemotaxis was rough. It was really funny how I got my project, at first I created a bunch of circle objects
  and played around with the randomizer(which crated Modern Art) and then I just messed around with it more to get my final result. I can   still make it better, but I like where I ended.  
