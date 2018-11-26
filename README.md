@@ -1,4 +1,4 @@
-# *AA Portfolio* 2018-2019
+# *AA Portfolio* Fall 2018-2019
 
 <details>
  <summary>Webpage</summary>
