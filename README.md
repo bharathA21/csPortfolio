@@ -12,8 +12,14 @@
         the vacations I have been on, on to a web page. This was a big step for my understanding on how much I can 
         do with java and html. It also made me realize how much I am capable of doing much more.
 </p>
-    </details>
+   
     
+  </p>
+   </details>
+  
+  
+  
+  
     <details>
  <summary>Lightning</summary>
  <p>
@@ -27,7 +33,7 @@ Looking back on my Lightnig project, I remember how difficult it was to actually
         struggle bus. The project itself turned out good, although I might have to recheck my color schemes.
 </p>
     </details>
-    
+ </p>   
     <details>
  <summary>Dice</summary>
  <p>
@@ -40,7 +46,9 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
         out early and was able to tinker and make it better.
 </p>
     </details>
+    </p>   
     
+
       <details>
  <summary>Chemotaxis</summary>
  <p>
@@ -53,6 +61,7 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
  Chemotaxis was rough. It was really funny how I got my project, at first I created a bunch of circle objects
  and played around with the randomizer(which crated Modern Art) and then I just messed around with it more to get my final result. I can   still make it better, but I like where I ended.  
 </p>
+ 
     </details>
 
  <summary>College Presentation</summary>
