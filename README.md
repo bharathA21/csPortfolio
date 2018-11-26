@@ -1,6 +1,6 @@
 # *AA Portfolio* 2018-2019
-[Web Page](https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html)
-<details>  
+
+[Web Page](https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html) <details>  
  <summary></summary>
         When I look back on my WebPage, it is really cool to see how I was able to display my cool photos from all 
         the vacations I have been on, on to a web page. This was a big step for my understanding on how much I can 
