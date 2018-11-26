@@ -25,7 +25,7 @@
  <p>
   
   <a href="https://bharatha21.github.io/lightning2/">Lightning<br></a>
-  
+   </p>
  
  <p>
 Looking back on my Lightnig project, I remember how difficult it was to actually get the Lightning to appear
@@ -33,20 +33,20 @@ Looking back on my Lightnig project, I remember how difficult it was to actually
         struggle bus. The project itself turned out good, although I might have to recheck my color schemes.
 </p>
     </details>
- </p>   
+    
     <details>
  <summary>Dice</summary>
  <p>
   
   <a href="https://bharatha21.github.io/dice3/">Dice<br></a>
-  
+   </p>
  
  <p>
 Dice was one of my favorite projects we did all Tri, not only did I have fun while doing it but I figured it 
         out early and was able to tinker and make it better.
 </p>
     </details>
-    </p>   
+      
     
 
       <details>
@@ -55,7 +55,7 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
   
   <a href="https://bharatha21.github.io/chemotaxis4/">Chemotaxis<br></a>
    <a href="https://bharatha21.github.io/PracticeChemo/">Modern Art<br></a>
-  
+   </p>
  
  <p>
  Chemotaxis was rough. It was really funny how I got my project, at first I created a bunch of circle objects
@@ -68,7 +68,7 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
  <p>
   
   <a href="https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing">Purdue Pete<br></a>
-  
+   </p>
  
  <p>
  Chemotaxis was rough. It was really funny how I got my project, at first I created a bunch of circle objects
