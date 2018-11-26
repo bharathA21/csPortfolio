@@ -6,7 +6,8 @@
         the vacations I have been on, on to a web page. This was a big step for my understanding on how much I can 
         do with java and html. It also made me realize how much I am capable of doing much more.
                 </details>
-* [Lightning](https://bharatha21.github.io/lightning2/)
+[Lightning](https://bharatha21.github.io/lightning2/)
+
 <details>  
  <summary> </summary>
         Looking back on my Lightnig project, I remember how difficult it was to actually get the Lightning to appear
@@ -14,24 +15,24 @@
         struggle bus. The project itself turned out good, although I might have to recheck my color schemes.
  </details>
  
-* [Dice](https://bharatha21.github.io/dice3/)
+[Dice](https://bharatha21.github.io/dice3/)
 <details>  
  <summary></summary>
         Dice was one of my favorite projects we did all Tri, not only did I have fun while doing it but I figured it 
         out early and was able to tinker and make it better.
       </details>
       
-* [Chemotaxis](https://bharatha21.github.io/chemotaxis4/)
+[Chemotaxis](https://bharatha21.github.io/chemotaxis4/)
 <details>  
  <summary></summary>
         Chemotaxis was rough. It was really funny how I got my project, at first I created a bunch of circle objects
         and played around with the randomizer. I can still make it better, but I like where I ended.  
  </details>
  
-* [Purdue Presentation](https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing)(College Presentation)
+[Purdue Presentation](https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing)(College Presentation)
 
-* [Some Modern Art](https://bharatha21.github.io/PracticeChemo/)
-* [Starfield](https://bharatha21.github.io/starfield5/)
+[Some Modern Art](https://bharatha21.github.io/PracticeChemo/)
+[Starfield](https://bharatha21.github.io/starfield5/)
 <details>  
  <summary></summary>
  Starfield was really fun, although it was difficult and confusing, I still had a good time doing it. I ended up doing an American themed project. The most difficult part was getting the ineritance and interface to work. 
