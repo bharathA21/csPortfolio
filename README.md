@@ -8,8 +8,7 @@
                 </details>
       
 <details>  
- <summary></summary>
-    <a href="* [Lightning](https://bharatha21.github.io/lightning2/)">
+ <summary> <a href="* [Lightning](https://bharatha21.github.io/lightning2/)"></summary>
 
         Looking back on my Lightnig project, I remember how difficult it was to actually get the Lightning to appear
         on the screen. It was during this project that I became really comfortable asking for help when I was on the
