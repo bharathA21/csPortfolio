@@ -89,7 +89,7 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
 
 
 
-<details>
+
  
  <sumary> Final Reflections </summary>
  <p>
