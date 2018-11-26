@@ -14,16 +14,20 @@
         on the screen. It was during this project that I became really comfortable asking for help when I was on the
         struggle bus. The project itself turned out good, although I might have to recheck my color schemes.
  </details>
-* [Dice](https://bharatha21.github.io/dice3/)<details>  
+ 
+* [Dice](https://bharatha21.github.io/dice3/)
+<details>  
  <summary></summary>
         Dice was one of my favorite projects we did all Tri, not only did I have fun while doing it but I figured it 
         out early and was able to tinker and make it better.
- </details>
-* [Chemotaxis](https://bharatha21.github.io/chemotaxis4/)<details>  
+      </details>
+* [Chemotaxis](https://bharatha21.github.io/chemotaxis4/)
+<details>  
  <summary></summary>
         Chemotaxis was rough. It was really funny how I got my project, at first I created a bunch of circle objects
-        and then I just started playing aroudn with the randomizer and thats how * [Some Modern Art]  (https://bharatha21.github.io/PracticeChemo/) was created.  
+        and then I just started playing aroudn with the randomizer and thats how [Some Modern Art]  (https://bharatha21.github.io/PracticeChemo/) was created.  
  </details>
+ 
 * [Purdue Pete](https://docs.google.com/presentation/d/1dwFqulrfwr6D_06PPsU23uqHluj66n033EemwrsieE0/edit?usp=sharing)(College Presentation)
 * [Some Modern Art](https://bharatha21.github.io/PracticeChemo/)
 * [Starfield](https://bharatha21.github.io/starfield5/)
