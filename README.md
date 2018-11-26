@@ -37,7 +37,7 @@ Looking back on my Lightnig project, I remember how difficult it was to actually
      
      
      
-    <details>
+ <details>
  <summary>Dice</summary>
  <p>
   
@@ -47,11 +47,10 @@ Looking back on my Lightnig project, I remember how difficult it was to actually
 Dice was one of my favorite projects we did all Tri, not only did I have fun while doing it but I figured it 
         out early and was able to tinker and make it better.
 </p>
-    </details>
+</details>
       </p> 
     
-
-  <details>
+ <details>
  <summary>Chemotaxis</summary>
  <p>
   
@@ -63,10 +62,11 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
  and played around with the randomizer(which crated Modern Art) and then I just messed around with it more to get my final result. I can   still make it better, but I like where I ended.  
 </p>
  
-  </details>
+ </details>
  </p>
  
  
+<details>
  <summary>College Presentation</summary>
  <p>
   
@@ -76,10 +76,11 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
  Chemotaxis was rough. It was really funny how I got my project, at first I created a bunch of circle objects
         and played around with the randomizer. I can still make it better, but I like where I ended.  
 </p>
-    </details>
+  </details>
  </p>
  
-  <summary>College Presentation</summary>
+ <details>
+  <summary>Starfield</summary>
  <p>
   
   <a href="https://bharatha21.github.io/starfield5/">Starfield<br></a>
