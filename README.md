@@ -1,11 +1,22 @@
 # *AA Portfolio* 2018-2019
 
-[Web Page](https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html) <details>  
- <summary></summary>
-        When I look back on my WebPage, it is really cool to see how I was able to display my cool photos from all 
+<details>
+ <summary>Webpage</summary>
+ <h3>Links:</h3>
+ <p>
+  
+  <a href="https://bharatha21.github.io/WebPageAashish/WebTest/Vacations.html">Web Page<br></a>
+  
+  
+    <details>
+    <summary>Webpage Reflection</summary>
+ <p>
+ When I look back on my WebPage, it is really cool to see how I was able to display my cool photos from all 
         the vacations I have been on, on to a web page. This was a big step for my understanding on how much I can 
         do with java and html. It also made me realize how much I am capable of doing much more.
-                </details>
+</p>
+    </details>
+
 [Lightning](https://bharatha21.github.io/lightning2/)
 <details>  
  <summary> </summary>
