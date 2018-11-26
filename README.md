@@ -89,19 +89,15 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
 
 
 
-
+<details>
+ <sumary>Final Reflections</summary>
+ 1. My total reflection of the trimester is I had a really good time. My favorite part of this tri was how Dr.R gave us the freedom to do what we wanted with our code. I really l;iked it because it gave us an opportunity to make our code our own. In Starfield, I copied code from a processing database and I realised how it works in my code, but it taught me nothing. I learned that even though I may find myself on the struggle bus more times than not, it is the only way I will get better. With that aside, here is my toughest code from the tri. 
 ```Java
-void draw()
-{
-  background(85, 156, 198);
-
-  while (endX<600) {
-    stroke((int)(Math.random()*255)+1, (int)(Math.random()*255)+1, (int)(Math.random()*255)+1) ;
-    endX=startX+((int)(Math.random()*10));
-    endY=startY+((int)(Math.random()*19)-9);
-    line(endX, endY, startX, startY);
-    startX=endX;
-    startY=endY;
-  }
-}
-```
+ for(int i =10;i<=560;i+=55){
+    for (int j = 10;j<=560;j+=55){
+    die = new Die(i,j);
+     int dice=(int)(Math.random()*6)+1;
+     count += dice;
+  die.show(dice); 
+ 2. This isn't the toughest code that I can do, but this specific code was tough for me at the beginning of the Tri. This is because I was still getting back into the groove of coding, and refreshing my mind on for loops and the random method. It took me a while to get a handle of dice but using the internet, peers, and Dr. R really helped me get through the struggle. 
+  
