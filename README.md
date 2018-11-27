@@ -91,7 +91,8 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
 
 
  
- <details><sumary> Final Reflections </summary>
+ <details>
+ <summary> Final Reflections </summary>
  <p>
  1. My total reflection of the trimester is I had a really good time. My favorite part of this tri was how Dr.R gave us the freedom to do what we wanted with our code. I really l;iked it because it gave us an opportunity to make our code our own. In Starfield, I copied code from a processing database and I realised how it works in my code, but it taught me nothing. I learned that even though I may find myself on the struggle bus more times than not, it is the only way I will get better. With that aside, here is my toughest code from the tri. 
  </p>
