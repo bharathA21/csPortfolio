@@ -99,12 +99,19 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
  </p>
 </details>
 
-
-
-
-
-
  
+ <details>
+  <summary>Club Project</summary>
+ <p> 
+  <a href="https://github.com/Albertsofc/clubTree">Club Project<br></a>
+ <p>
+ In this project my partner and I used trees to complete the task. The basic idea of the project was a questionare that would help the user find out what club they best fit in at RHS. Oliva, my partner, created the whole tree and the different leaf nodes. I created the whole interface and intergrated it with the tree.   
+</p>
+    
+ </p>
+</details>
+
+
  <details>
  <summary> Final Reflections </summary>
  <p>
@@ -123,5 +130,17 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
  2. This isn't the toughest code that I can do, but this specific code was tough for me at the beginning of the Tri. This is because I was still getting back into the groove of coding, and refreshing my mind on for loops and the random method. It took me a while to get a handle of dice but using the internet, peers, and Dr. R really helped me get through the struggle. 
  </p.
 
+
 </details>
+
+<details>
+  <summary>Final Year Reflections</summary>
+ <p> 
+ <p>
+ As the year comes to a close, I wanted to reflect on my total expirence in comp sci. I think my overall problem solving skills became better as I came into contact with problems and labs that I have never came across before. I also really enjoyed this year because of how much freedom we were given.
+</p>
+    
+ </p>
+</details>
+
   
