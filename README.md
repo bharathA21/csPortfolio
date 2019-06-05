@@ -88,6 +88,20 @@ Dice was one of my favorite projects we did all Tri, not only did I have fun whi
 </details>
 
 
+ <details>
+  <summary>Crime Maps</summary>
+ <p> 
+  <a href="https://github.com/bharathA21/crimeProject">CrimeProject<br></a>
+ <p>
+ We did this project using maps. The project displayed the average crimes charged for the past five years for juveniles and adults. I would say the hardest part of this project was importing the svg file for the dakota county map. We used an scg so that we could the individual cities in the county itself. It was really cool to see the fluctuations in crime levels between different cities. 
+</p>
+    
+ </p>
+</details>
+
+
+
+
 
 
  
